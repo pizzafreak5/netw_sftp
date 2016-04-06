@@ -1,0 +1,47 @@
+# depslib dependency file v1.0
+1459942446 source:/home/garrett/netw_ftp/simpleftp/client.c
+	"client.h"
+
+1459918510 /home/garrett/netw_ftp/simpleftp/client.h
+	<sys/socket.h>
+	<sys/types.h>
+	<sys/wait.h>
+	<signal.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<errno.h>
+	<netdb.h>
+	<netinet/in.h>
+	<unistd.h>
+
+1459728895 source:/home/garrett/netw_ftp/simpleftp/main.c
+	<stdio.h>
+	<stdlib.h>
+	<errno.h>
+	<string.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<netinet/in.h>
+	<arpa/inet.h>
+	<sys/wait.h>
+	<signal.h>
+
+1459941485 source:/home/garrett/netw_ftp/simpleftp/server.c
+	"server.h"
+
+1459939004 /home/garrett/netw_ftp/simpleftp/server.h
+	<sys/socket.h>
+	<sys/types.h>
+	<sys/wait.h>
+	<signal.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<errno.h>
+	<netdb.h>
+	<netinet/in.h>
+	<sys/ipc.h>
+	<sys/shm.h>
+	<unistd.h>
+
